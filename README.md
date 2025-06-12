@@ -18,11 +18,11 @@ Automated pipeline includes:
 - Build Docker image
 - Push to Docker Hub
 
-### ✅ Status
+### Status
 All jobs passed successfully.  
 Pipeline duration: ~25 seconds
 
-## 🚀 Deployment
+## Deployment
 Run locally using:
 
 ```bash
