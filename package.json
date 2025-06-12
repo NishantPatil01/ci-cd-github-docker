@@ -1,0 +1,29 @@
+{
+  "name": "ci-cd-github-docker",
+  "version": "1.0.0",
+  "description": "Simple Node app with CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishantPatil01/ci-cd-github-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishantPatil01/ci-cd-github-docker/issues"
+  },
+  "homepage": "https://github.com/NishantPatil01/ci-cd-github-docker#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.0"
+  }
+}
+
